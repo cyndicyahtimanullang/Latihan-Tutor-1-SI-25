@@ -4,16 +4,16 @@
         <attribute name="name" value="TU01"/>
         <attribute name="authors" value="ASUS"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2025-10-03 03:42:33 PM"/>
+        <attribute name="saved" value="2025-10-03 03:53:01 PM"/>
         <attribute name="created" value="QVNVUztMQVBUT1AtT0dCT1BLQjQ7MjAyNS0xMC0wMzswMjozMTozOCBQTTsyNjY3"/>
-        <attribute name="edited" value="QVNVUztMQVBUT1AtT0dCT1BLQjQ7MjAyNS0xMC0wMzswMzo0MjozMyBQTTsxOzI3NzM="/>
+        <attribute name="edited" value="QVNVUztMQVBUT1AtT0dCT1BLQjQ7MjAyNS0xMC0wMzswMzo1MzowMSBQTTsyOzI3NzE="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
             <declare name="bil1, bil2, hasil, tambah, kali" type="Integer" array="False" size=""/>
             <output expression="&quot;Selamat Datang&quot;" newline="True"/>
-            <output expression="&quot;Silahkan Masukkan Bilangan ke-1 dan Bilanngan ke-2&quot;" newline="True"/>
+            <output expression="&quot;Silahkan Masukkan Bilangan ke-1 dan Bilangan ke-2&quot;" newline="True"/>
             <input variable="bil1"/>
             <input variable="bil2"/>
             <if expression="bil1 %2 == 0">
